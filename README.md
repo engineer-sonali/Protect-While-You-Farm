@@ -2,6 +2,14 @@
 An automatic crop leaf disease detection technique for farmers with the use of concepts of neural network (Convolutional Neural Network) to create an image classifier which can identify diseased and healthy crop.
 
 This project has been made using a CNN architecture - VGG16 model and Django framework. CNN model has been used to identify plant diseases due to their great feature extraction capacity. Our crop leaf disease prediction model was trained on a dataset of 9 classes using VGG16 which is regarded as one of the best vision model architectures ever created. Our model can predict the disease of 3 crops i.e apple, potato, tomato and corn. In the end, we obtained an accuracy of 97.07% with validation accuracy of 97.87% .
+
+# Tech Used
+1. Deep Learning
+2. Image Processing
+3. Django Framework
+4. Javascript
+5. HTML and CSS
+   
 # Application
 ![3](https://user-images.githubusercontent.com/71033672/157178028-172bc6b8-60f0-46df-b98c-55741ad3c641.JPG)
 ![4](https://user-images.githubusercontent.com/71033672/157178079-97c8f8ce-85bd-4cd9-9a05-0b280bcb3c03.JPG)
