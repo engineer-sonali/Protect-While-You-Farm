@@ -19,7 +19,7 @@ This project has been made using a CNN architecture - VGG16 model and Django fra
 ![6](https://user-images.githubusercontent.com/71033672/157178212-1deb3e7c-fd88-4238-b811-ed4dab744630.JPG)
 
 
-# Colaborators
+# Collaborators
 1. Sonali Sharma
 2. Aaryan Mehta
 3. Vinayak Unde
